@@ -18,6 +18,8 @@ g) WALLET is  used  in  computer....
 
 h)  WALLET  is  best  than  mobiles  and  it  is less  in cost.
 
+i)  it  is    used mostly  in  Banking  Domain.
+
 
 
 
