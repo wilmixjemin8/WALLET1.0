@@ -2,17 +2,17 @@
 ===============
 
 
-a)  WALLET  is to  view   Webcloudcomputing   website,application , Proxy  websites, and web applications
+a)  WALLET  is to  view   remote Webapplication  website,application , Proxy  websites, and web applications
 
 b)  WALLET  is  used  instead  of  mobile...
 
-c)  WALLET  is  for  viewing  Proxy  websites, cloud websites...
+c)  WALLET  is  for  viewing  Proxy  websites, remote  webapplication websites...
 
 d)  WALLET  is  faster  than  mobile..
 
 e)  SAVES  TIME AND  COST
 
-f)  WALLET  is   a  software  to  run   cloud  computing  websites...
+f)  WALLET  is   a  software  to  run   remote webapplication websites...
 
 g) WALLET is  used  in  computer....
 
